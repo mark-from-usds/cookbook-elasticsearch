@@ -16,7 +16,7 @@ supports 'ubuntu'
 
 depends 'apt'
 depends 'yum'
-depends 'chef-sugar-ng'
+depends 'chef-sugar'
 depends 'ark'
 
 issues_url       'https://github.com/elastic/cookbook-elasticsearch/issues'
