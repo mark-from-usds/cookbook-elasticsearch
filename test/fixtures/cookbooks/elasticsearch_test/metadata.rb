@@ -9,5 +9,5 @@ version          '0.1.0'
 
 depends 'apt'
 depends 'yum'
-depends 'chef-sugar'
+depends 'chef-sugar-ng'
 depends 'elasticsearch'
